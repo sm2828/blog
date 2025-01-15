@@ -7,8 +7,8 @@ const navItems = {
   '/blog': {
     name: 'thoughts',
   },
-  'https://monad-giveaway.vercel.app/': {
-    name: 'guess',
+  'https://fidget-eight.vercel.app/': {
+    name: 'click...',
   },
 }
 
