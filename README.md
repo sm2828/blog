@@ -1,42 +1,45 @@
 # Portfolio Blog Starter
 
-This is a porfolio site template complete with a blog. Includes:
+Welcome to the **Portfolio Blog Starter**! This repository serves as the foundation for my personal blog, where I share my work and thoughts.
 
-- MDX and Markdown support
-- Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
-- Dynamic OG images
-- Syntax highlighting
-- Tailwind v4
-- Vercel Speed Insights / Web Analytics
-- Geist font
+## Live Site
 
-## Demo
+You can visit my blog at: [www.monadbull.com](http://www.monadbull.com)
 
-https://portfolio-blog-starter.vercel.app
+## Features
 
-## How to Use
+- **MDX and Markdown Support**: Write content in Markdown or MDX for flexibility.
+- **SEO Optimized**: Includes sitemap generation and JSON-LD schema for better search visibility.
+- **RSS Feed**: Automatically generates an RSS feed for updates.
+- **Dynamic OG Images**: Creates dynamic Open Graph images for social media sharing.
+- **Syntax Highlighting**: Code snippets are highlighted for readability.
+- **Tailwind CSS v4**: Utilizes Tailwind CSS for a modern design.
 
-You can choose from one of the following two methods to use this repository:
+## Getting Started
 
-### One-Click Deploy
+To set up this repository locally, follow these steps:
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
+1. Clone the repository:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/blog&project-name=blog&repository-name=blog)
+   ```bash
+   git clone https://github.com/sm2828/blog.git
+   ```
 
-### Clone and Deploy
+2. Navigate to your project directory:
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
+   ```bash
+   cd blog
+   ```
 
-```bash
-pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/blog blog
-```
+3. Install dependencies and run the development server:
 
-Then, run Next.js in development mode:
+   ```bash
+   pnpm install
+   pnpm dev
+   ```
 
-```bash
-pnpm dev
-```
+4. Deploy it to the cloud with [Vercel](https://vercel.com/templates) if desired.
 
-Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
+---
+
+Thank you for visiting my blog repository! I hope you enjoy the content.

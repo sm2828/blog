@@ -5,10 +5,13 @@ const navItems = {
     name: 'home',
   },
   '/blog': {
-    name: 'thoughts',
+    name: 'blog',
   },
   'https://fidget-eight.vercel.app/': {
-    name: 'click...',
+    name: 'memory game',
+  },
+  'https://global-gmonads.vercel.app/': {
+    name: 'monad globe',
   },
 }
 
